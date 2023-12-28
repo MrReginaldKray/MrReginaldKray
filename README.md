@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ForkMyRepo*
+- 📫 How to reach me **forkMyRepo*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
